@@ -1,0 +1,4 @@
+{
+    "cmd": ["python ${file}<${file_path}/input.txt>${file_path}/output.txt"],
+    "shell":true
+}
